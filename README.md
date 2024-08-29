@@ -1,1 +1,2 @@
-# Feature-Selection
+# Enhancing Predictive Models with Feature Selection Techniques
+In machine learning, selecting the right features can significantly impact the performance of your model. This blog post walks through various feature selection techniques, using the Titanic dataset as an example. We'll explore methods like Feature Importance with Random Forest, Permutation Importance, and Recursive Feature Elimination (RFE), followed by training models like Decision Tree, Random Forest, and AdaBoost.
